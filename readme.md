@@ -38,3 +38,7 @@ To run end to end test
 ```bash
 npm run e2e
 ```
+
+## Deployment
+
+This site has been deployed at [weltiresto](https://weltiresto.netlify.app/)
